@@ -1,0 +1,22 @@
+.ith_container {
+    text-align: center;
+}
+
+.ith_container h3 {
+    color: green;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.ith_container td {
+    font-size: 14px;
+}
+
+.ith_container td:nth-child(1) {
+    text-transform: uppercase;
+}
+
+.ith_notice {
+    font-size: 10px;
+    font-style: italic;
+}
